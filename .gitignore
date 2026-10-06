@@ -9,3 +9,4 @@ env/
 ESC-50-master/
 
 .streamlit/secrets.toml
+echo sound_classifier_50class.pkl >> .gitignore
